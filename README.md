@@ -6,7 +6,7 @@ Things i kick tires on:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,bash,powershell,linux,windows,apple,vim,md,c,py" />
+    <img src="https://skillicons.dev/icons?i=git,bash,powershell,linux,kubernetes,windows,apple,vim,md,c,py" />
   </a>
 </p>
 
