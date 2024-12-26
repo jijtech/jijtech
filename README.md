@@ -15,6 +15,10 @@
 
 ###
 
+<br><br>![[218294072-d474a330-7464-430a-b369-91f79373dbca](https://github.com/MujtabaAsim/MujtabaAsim/assets/62666332/0438a9e1-d47d-4570-873c-5ddd59f46e9e)](https://raw.githubusercontent.com/jijtech/jijtech/refs/heads/main/output/cat.svg)<br>
+
+###
+
 <p align="left">Things i kick tires on:</p>
 
 ###
@@ -53,7 +57,7 @@
 
 ###
 
-<h6 align="left">About:</h6>
+<h6 align="left">About me:</h6>
 
 ###
 
@@ -68,6 +72,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jijtech/jijtech/refs/heads/main/output/snake.yml" alt="Snake animation" />
-
-###
