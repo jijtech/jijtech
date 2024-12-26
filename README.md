@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jijtech/jijtech/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jijtech/jijtech/refs/heads/main/output/snake.yml" alt="Snake animation" />
 
 ###
