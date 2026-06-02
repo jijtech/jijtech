@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">* I work in DevSecOps.<br>* I like motorcycles.<br>* Love Travel</p>
+<p align="left">* I work in DevOps.<br>* I like motorcycles.<br>* Love Travel</p>
 
 ###
 
